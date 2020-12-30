@@ -29,8 +29,8 @@ export const ItemDetail = (props) => {
       <div className="row">
         <div className="col-md-4">
           <img
-            src={process.env.PUBLIC_URL + item.imagen}
-            className="card-img item-detail-image"
+            src={item.imagen}
+            className="card-img item-detail-image ajustarTamaño"
             alt={item.name}
           />
         </div>
