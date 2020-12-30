@@ -1,0 +1,32 @@
+.customer-form {
+  max-width: 70%;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.customer-form-button {
+  padding: 10px 12px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  line-height: 1;
+  border-radius: 10px;
+  background-color: lightpink;
+  user-select: none;
+  margin-top: 10px;
+  outline: none;
+}
+.customer-form-button:focus {
+  outline: none;
+}
+.customer-form-title {
+  text-align: center;
+  font-size: 1.7rem;
+  margin: 20px;
+  font-weight: bold;
+}
+.customer-form-error {
+  color: red;
+  font-weight: bold;
+  padding-top: 10px;
+}

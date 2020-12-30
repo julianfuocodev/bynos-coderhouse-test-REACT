@@ -1,0 +1,37 @@
+.bynos {
+text-decoration: none;
+color: lightpink;
+}
+
+.bynos:hover {
+color: purple;
+    }
+
+.header {
+    background-color: black;
+    border-bottom: lightpink solid 1px;
+}
+
+.spink {
+    box-shadow: 1px 3px 5px 3px lightpink;
+}
+.header nav{
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.categoria {
+padding: 10px;
+}
+
+.categoria p{
+    color: lightpink;
+    font-size:20px;
+text-align: center;
+    }
+
+.categoria:hover {
+border: 1px solid lightpink;
+        }
+

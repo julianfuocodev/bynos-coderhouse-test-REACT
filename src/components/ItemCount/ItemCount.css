@@ -1,0 +1,27 @@
+.item-count {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.item-count-counter-container {
+  display: flex;
+  align-items: center;
+}
+.item-count-window {
+  border: 1px solid #beb8b8;
+  border-radius: 10px;
+  background-color: #e9f5f8;
+  padding: 8px;
+  max-width: 200px;
+}
+.item-count-button-small {
+  font-size: 2rem;
+  color: #050586;
+  cursor: pointer;
+}
+.item-count-counter {
+  font-weight: bold;
+  font-size: 1.2em;
+  margin: 0 15px;
+  user-select: none;
+}

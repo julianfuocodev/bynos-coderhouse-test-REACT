@@ -1,0 +1,24 @@
+.home-main-image-container {
+  height: 70vh;
+  text-align: center;
+  position: relative;
+}
+.home-main-logo {
+  width: 80%;
+  padding: 30px;
+}
+.home-main-arrow {
+  width: 50px;
+  float: left;
+  bottom: 10px;
+  position: absolute;
+  right: calc(50% - 25px);
+}
+@media only screen and (min-width: 720px) {
+  .home-main-image-container {
+    text-align: right;
+  }
+  .home-main-logo {
+    width: 30%;
+  }
+}

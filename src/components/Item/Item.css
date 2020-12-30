@@ -1,0 +1,26 @@
+.precio {
+  font-weight: bold;
+  font-size: 1.2em;
+  color: red;
+}
+.router-link:hover {
+  text-decoration: none;
+  color: black;
+}
+.router-link {
+  color: black;
+}
+.item-component-container {
+  margin: 10px;
+}
+.item-card {
+  background-color: #f8f9fa !important;
+  margin-bottom: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border: 1px solid #999999;
+  box-shadow: 1px 1px 7px 1px lightpink;
+}
+.ajustarTamaño {
+height: 300px;
+}

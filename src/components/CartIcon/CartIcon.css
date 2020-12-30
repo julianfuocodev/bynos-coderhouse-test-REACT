@@ -1,0 +1,15 @@
+.cart-icon {
+  font-size: 2rem;
+  color: white;
+}
+.cart-icon-count {
+  background-color: red;
+  color: white;
+  border-radius: 50px;
+  padding: 0px 7px 2px 7px;
+  font-weight: bold;
+}
+
+.cup {
+color: lightpink;
+}
