@@ -52,3 +52,7 @@
 .item-detail-button-comprar:focus {
   outline: none;
 }
+.ajustarTamaño {
+max-height: 300px;
+width: 100%;
+}
